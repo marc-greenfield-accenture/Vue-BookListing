@@ -17,6 +17,8 @@ export default {
         {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
         {title: 'American Gods', author: 'Neil Gaiman'},
         {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
+        {title: 'War and Peace', author: 'Leo Tolstoy'},
+        {title: 'War: What is it good for?', author: 'Leo Tolstoy'}
       ]
     };
   }
@@ -30,9 +32,5 @@ h1, h2 {
 ul {
   list-style-type: none;
   padding: 0;
-}
-li {
-  display: block;
-  margin: 0 10px;
 }
 </style>
